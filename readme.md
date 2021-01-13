@@ -45,4 +45,5 @@ test2
 객체.select({value:1}); //select 함수 실행시 셋팅값 체크, 없으면 셋팅실행
 test1
 test2
+test3
 TEMP
